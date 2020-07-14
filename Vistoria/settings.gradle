@@ -1,0 +1,2 @@
+rootProject.name='Vistoria'
+include ':app'
